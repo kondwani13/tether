@@ -1,1 +1,1 @@
-Code for tether app
+Hey this repo contains the code for the tether backend
